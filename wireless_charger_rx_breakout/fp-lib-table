@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name DFLS240L)(type KiCad)(uri "$(KIPRJMOD)/DFLS240L.pretty")(options "")(descr "D5, D8, D9"))
+  (lib (name NR6028T470M)(type KiCad)(uri "$(KIPRJMOD)/NR6028T470M.pretty")(options "")(descr Lsw))
+  (lib (name "Receiver Coil")(type KiCad)(uri "$(KIPRJMOD)/Receiver Coil.pretty")(options "")(descr ""))
+)
